@@ -13,7 +13,12 @@
 
 # How to use
 - Download [Release](https://github.com/pa1n-dev/stalcraft_chams/releases/download/18.02.2025/stalcraft_internal.dll)
-- Inject via Extreme Injector (Need to inject while the game is loading as soon as possible).
 
+- Inject via Extreme Injector
+
+![image](https://github.com/user-attachments/assets/dbb69e98-47d5-4803-a72d-ba93ec583e62)
+
+(Need to inject while the game is loading as soon as possible).
+ 
 ### Software used
 - [MinHook](https://github.com/TsudaKageyu/minhook)
