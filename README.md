@@ -15,6 +15,8 @@
 
 - Select stalcraft process
 
+- Change settings like this
+
 ![image](https://github.com/user-attachments/assets/dbb69e98-47d5-4803-a72d-ba93ec583e62)
 
 (Need to inject while the game is loading as soon as possible).
